@@ -31,5 +31,5 @@ Bem-vindo ao repositório do **Cardápio Virtual**! Este é um projeto desenvolv
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/cardapio-virtual.git
+   git clone https://github.com/ivano-lab/cardapio-virtual.git
 
